@@ -31,7 +31,6 @@ Full stack Financial application utilizing ORM with Sequelize and adhering to th
 - [x] [temporary](https://github.com/mbrassey/FinanceTracker/issues/19)
 - [x] [Adjust Style & Finish Readme](https://github.com/mbrassey/FinanceTracker/issues/20)
 - [x] [chart fix](https://github.com/mbrassey/FinanceTracker/issues/21)
-- [x] [chart fix](https://github.com/mbrassey/FinanceTracker/issues/21)
 
 #### Table of Contents
 
