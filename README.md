@@ -4,8 +4,7 @@ Full stack Financial application utilizing ORM with Sequelize and adhering to th
 
 Demo User:
 
-> E-mail Address: nwestnedge0@cbc.ca
-
+> E-mail Address: nwestnedge0@cbc.ca <br />
 > Password: password123
 
 ![licensebadge](https://img.shields.io/badge/license-CC0_1.0_Universal-blue)
