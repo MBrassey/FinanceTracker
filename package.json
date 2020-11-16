@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mbrassey/project2.git"
+    "url": "git+https://github.com/mbrassey/financetracker.git"
   },
   "author": "Matthew A. Brassey",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mbrassey/project2/issues"
+    "url": "https://github.com/mbrassey/financetracker/issues"
   },
-  "homepage": "https://github.com/mbrassey/project2#readme",
+  "homepage": "https://github.com/mbrassey/financetracker#readme",
   "dependencies": {
     "bcrypt": "^5.0.0",
     "chart.js": "^2.9.4",
