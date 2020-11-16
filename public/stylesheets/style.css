@@ -79,8 +79,9 @@ a {
 
 .nav-links {
   color: var(--primary);
-  padding: 0px 30px 15px 0px;
-  padding-right: 30px;
+  padding-left: 40px;
+  padding-right: 0px;
+  padding-bottom: 12px;
   display: inline-block;
   text-decoration: none;
   font-size: 1.5em;
@@ -189,7 +190,7 @@ a {
 }
 
 .app-title {
-  font-size: 20px;
+  font-size: 28px;
   background-color: var(--primary);
   color: var(--dark);
   padding: 0 10px;
@@ -587,6 +588,13 @@ a {
 
   .col-xl-12 {
     flex: 0 0 100%;
+  }
+}
+
+@media (max-width: 850px) {
+  .responsive {
+    width: 100%;
+    height: auto;
   }
 }
 
