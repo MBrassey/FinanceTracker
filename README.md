@@ -98,6 +98,7 @@ Full stack Financial application utilizing ORM with Sequelize and adhering to th
 ##### Matt Brassey
 
 > [View Contributions](https://github.com/mbrassey/FinanceTracker/commits?author=MBrassey)
+> [<img src="img/Contributor.png">](https://github.com/mondrovic/finance-tracker/graphs/contributors)
 
 ##### Ryan Brown
 
