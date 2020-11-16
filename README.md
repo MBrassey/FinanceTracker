@@ -110,7 +110,7 @@ Full stack Financial application utilizing ORM with Sequelize and adhering to th
 
 #### Questions
 
-Contact me at [mbrassey1@gmail.com](mailto:mbrassey1@gmail.com) with any questions or comments.
+Contact me at [mbrassey1@gmail.com](mailto:matt@brassey.io) with any questions or comments.
 
 #### License
 
