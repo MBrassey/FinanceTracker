@@ -2,6 +2,10 @@
 
 Full stack Financial application utilizing ORM with Sequelize and adhering to the Model-View-Controller paradigm. Handlebars Templating Engine was heavily utilized to modularize the views. On the back end, Express.js and SQL database are being used to provide robust REST API with multiple endpoints/routes. Authentication is required for the appropriate routes and user passwords are encrypted within the database using bcrypt. Test Driven Development has been demonstrated in this project using Jest.
 
+Demo User:
+E-mail Address: nwestnedge0@cbc.ca
+Password: password123
+
 ![licensebadge](https://img.shields.io/badge/license-CC0_1.0_Universal-blue)
 
 #### Issues
@@ -26,6 +30,7 @@ Full stack Financial application utilizing ORM with Sequelize and adhering to th
 - [x] [dynamically added categories](https://github.com/mbrassey/FinanceTracker/issues/18)
 - [x] [temporary](https://github.com/mbrassey/FinanceTracker/issues/19)
 - [x] [Adjust Style & Finish Readme](https://github.com/mbrassey/FinanceTracker/issues/20)
+- [x] [chart fix](https://github.com/mbrassey/FinanceTracker/issues/21)
 - [x] [chart fix](https://github.com/mbrassey/FinanceTracker/issues/21)
 
 #### Table of Contents
